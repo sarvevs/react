@@ -1,0 +1,34 @@
+a {
+    margin-left: 5px;
+}
+tr,th,td,table {
+    border: 1px solid black;
+    padding: 2px ;
+}
+.img{
+    width: 140px;
+    height: 140px;
+    margin: 10px;
+    font-size: 25px;
+    color: gray;
+}
+.cont{
+    height: 320px;
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 7px;
+    margin: 10px;
+}
+.container{
+    display: flex;
+}
+h3{
+    font-size: 30px;
+}
+p, h5, h3{
+    padding: 3px;
+}
+.price{
+    padding-left: 3px;
+}
+
